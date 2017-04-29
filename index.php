@@ -2,5 +2,3 @@
 
 phpinfo();
 
-exit;
-
